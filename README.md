@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ryan+Gordon+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ryan+Conley+Jr.+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 [![LinkedIn: ryankigordon](https://img.shields.io/badge/-ryankigordon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryankigordon)](https://www.linkedin.com/in/ryankigordon)
