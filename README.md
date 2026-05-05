@@ -2,10 +2,8 @@
 
 
 [![LinkedIn: ryankigordon](https://img.shields.io/badge/-ryankigordon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryankigordon)](https://www.linkedin.com/in/ryankigordon)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-
+![GitHub followers](https://img.shields.io/github/followers/ryankgordon?label=Follow&style=social)
+[![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ryangordon.onrender.com/)](https://ryangordon.onrender.com/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryankgordon.ryankgordon)
 
 <p align="center">
