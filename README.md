@@ -63,8 +63,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryankgordon&bg_color=101820&color=ffffff&line=FFB612&point=ffffff&hide_border=true" alt="Ryan's Activity Graph" />
-</p> 
+<h1 align="center">Hi, I'm Ryan Gordon 👋</h1>
 -->
