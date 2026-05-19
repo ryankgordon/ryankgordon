@@ -35,7 +35,7 @@ Developed a FastAPI tool that monitors website uptime every 60 seconds and sends
 * CompTIA A+ (Certified)
 * Google IT Support Professional Certificate
 * TestOut Security Pro, CompTIA
-* Currently pursuing: CompTIA Secuirty+ 
+* Currently pursuing: CompTIA Security+
 
 # 📚 Education
 * Bachelor of Science (B.S.) in Computer Science, State University of New York (SUNY) Fredonia
